@@ -79,7 +79,7 @@ Shell script files used to generate RE-FIGS qualitative result files for MCF7 pe
 ### identification_Hela.sh
 Shell script files used to generate RE-FIGS qualitative result files for Hela data.
 
-### identification_ecolihumanyeast.sh
+### identification_ecoli-human-yeast.sh
 Shell script files used to generate RE-FIGS qualitative result files for samples of three species.
 
 ### quantification_DI-SPA-MCF7.sh
@@ -88,5 +88,5 @@ Shell script files used to generate RE-FIGS quantitative result files for MCF7 p
 ### quantification_Hela.sh
 Shell script files used to generate RE-FIGS quantitative result files for Hela data.
 
-### quantification_ecolihumanyeast.sh
+### quantification_ecoli-human-yeast.sh
 Shell script files used to generate RE-FIGS quantitative result files for samples of three species.
